@@ -24,8 +24,6 @@ type
 
 var
   MainForm: TMainForm;
-  lf: TextFile;
-  LogFileName, ApplicationFileName: TFileName;
 
   implementation
 
